@@ -31,7 +31,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 In the project solved instance chatting. Solutions were done with two methods.
 1) Ajax
-2) WebSocket (for running socket server need to open the link http://localhost/laravel/public/runServer )
+2) WebSocket (for running socket server need to click on [link](http://localhost/laravel/public/runServer))
 
 In root directory have .sql file for DB.
 
