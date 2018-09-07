@@ -25,3 +25,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+## About project
+
+In the project solved instance chatting. Solutions were done with two methods.
+1) Ajax
+2) WebSocket (for running socket server need to open the link http://localhost/laravel/public/runServer )
+
+In root directory have .sql file for DB.
+
+
+
